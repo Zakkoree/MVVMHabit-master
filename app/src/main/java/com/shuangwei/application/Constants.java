@@ -17,5 +17,5 @@ public class Constants {
         }
     }
 
-    public static final String URL_CHAT = "";
+    public static final String URL_CHAT = "33333333333333333";
 }
