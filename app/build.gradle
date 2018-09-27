@@ -19,9 +19,6 @@ android {
         }
     }
 
-
-//    def API_DEV_HOST="\"http://sw.spacemea.com/\""
-//    def API_DEBUG_HOST="\"http://sw.spacemea.com/\""
     buildTypes {
         debug {
             minifyEnabled true
